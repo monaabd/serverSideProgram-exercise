@@ -1,0 +1,2 @@
+Övning 5
+Skriv en server som läser in en textfil från samma mapp som servern och skriver ut textfilens innehåll i webbläsaren på valfritt sätt.

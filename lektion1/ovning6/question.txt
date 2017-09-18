@@ -1,0 +1,7 @@
+Övning 6
+Skriv en server med http-modulen som läser in en textfil, gör om resultatet till en array, slumpar fram ett element och sedan skriver ut det valda elementet till webbläsaren. Hur du väljer att dela upp innehållet till arrayen är upp till dig.
+
+// text e ma faghat be sorate text e pas baraye inke be arrey tabdil beshe bayad az split method stefade koni 
+var myArrey = data.split(""); 
+//bad bara in ke random vardare element o (na faghat number) bayad az formole 
+var item = items[Math.floor(Math.random()*items.length)]; stefadee koni 

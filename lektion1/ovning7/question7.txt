@@ -1,0 +1,3 @@
+Övning 7
+Skriv ett program som hämtar data från https://yhjust16.herokuapp.com/lorem med https.get och sedan skriver ut resultatet med console.log. 
+OBS: använd const https = require('https'); Observera s:et.

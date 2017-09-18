@@ -1,0 +1,26 @@
+// or insted of link for style.css , you can just under style say include style .css
+doctype html
+html
+   head
+      title = "Hello Pug M"
+      link(rel='stylesheet',href="style1.css")
+   body
+   nav
+   |
+   a(href='/' + url) Content
+   
+   | 
+   a(href='/' + url) About
+   block content
+      p.greetings 
+   block userinfo
+   
+      #people Hello World!
+      div 
+      | To insert Multiline text,
+      | you can uses pipe
+      
+      div But that gets tedious if you have a lot of text.
+   
+      
+      
